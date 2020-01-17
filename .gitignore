@@ -1,0 +1,10 @@
+.idea
+.vscode
+
+#this dirs contain binary
+release
+
+*.log
+cover.out
+
+project.db
